@@ -1,2 +1,2 @@
 # bienes-raices
-efwefwef
+Este miniproyecto es una practica sobre una pagina de vienes raices
